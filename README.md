@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on VoIP projects.
 - 🤔 I’m looking for help in deploy my DevOps and Code skill. Looking help for learning.
 - 💬 Ask me about SIP and Asterisk configurations.
-- 📫 How to reach me: tibanezslujan@gmail.com.
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: tibanezlujan@gmail.com.
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Mi piace molto giocare a tennis, ma sono molto negato. Sto anche cercando di imparare l'italiano.
