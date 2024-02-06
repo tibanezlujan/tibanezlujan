@@ -1,8 +1,18 @@
-#Antonio Ibáñez Luján
-##Telecom Engineer code lover
-### Hi! 👋
-SIP – Asterisk – Network – Unix
+# Toner
 
+## SIP – Asterisk – SIPP - Network – Unix ||  Telecom Engineer code lover
+
+### Hi! 👋
+### My name is Antonio and I 
+
+- 🔭 I’m currently working on SIPP and STI projects to simulate VoIP networks 
+- 🌱 I’m currently learning Python, WebRTC and GIT
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about SIP and Asterisk configuration, I will try to help :)
+- 📫 How to reach me: tibanezslujan@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: 
 
 
 <!--
