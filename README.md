@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on VoIP projects to simulate VoIP telecomunication networks and scenarios.
-- 🌱 I’m currently learning Python, WebRTC and GIT.
+- 🌱 I’m currently learning Python, Security, GIT and WebRTC.
 - 👯 I’m looking to collaborate on VoIP projects.
 - 🤔 I’m looking for help in deploy my DevOps and Code skill. Looking help for learning.
 - 💬 Ask me about SIP and Asterisk configurations.
