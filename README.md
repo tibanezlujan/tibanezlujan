@@ -1,18 +1,14 @@
-# Toner
+# Toner README
+## Telecom Engineer: SIP – Asterisk – SIPP - Network – Unix
 
-## SIP – Asterisk – SIPP - Network – Unix ||  Telecom Engineer code lover
-
-### Hi! 👋
-### My name is Antonio and I 
-
-- 🔭 I’m currently working on SIPP and STI projects to simulate VoIP networks 
-- 🌱 I’m currently learning Python, WebRTC and GIT
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about SIP and Asterisk configuration, I will try to help :)
-- 📫 How to reach me: tibanezslujan@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 🔭 I’m currently working on VoIP projects to simulate VoIP telecomunication networks and scenarios.
+- 🌱 I’m currently learning Python, WebRTC and GIT.
+- 👯 I’m looking to collaborate on VoIP projects.
+- 🤔 I’m looking for help in deploy my DevOps and Code skill. Looking help for learning.
+- 💬 Ask me about SIP and Asterisk configurations.
+- 📫 How to reach me: tibanezslujan@gmail.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Mi piace molto giocare a tennis, ma sono molto negato. Sto anche cercando di imparare l'italiano.
 
 
 <!--
